@@ -209,7 +209,7 @@ Viva La Vida
         <div class="cards">
             <div class="card">
                 <h3>Laboratory 1</h3>
-                <p></p>
+                <p>Policarpio- Term 2 - Midterms Lab Task 1.pdf</p>
             </div>
             <div class="card">
                 <h3>Laboratory 2</h3>
