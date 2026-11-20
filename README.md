@@ -202,25 +202,41 @@ Viva La Vida
     </section>
 
     <!-- MIDTERM -->
-    <section id="midterm">
-        <h2>Midterm</h2>
-        <p>My laboratory activities and outputs for the midterm period.</p>
+<section id="midterm">
+    <h2>Midterm</h2>
+    <p>My laboratory activities and outputs for the midterm period.</p>
 
-        <div class="cards">
-            <div class="card">
-                <h3>Laboratory 1</h3>
-                <p>Policarpio- Term 2 - Midterms Lab Task 1.pdf</p>
-            </div>
-            <div class="card">
-                <h3>Laboratory 2</h3>
-                <p>LabTask_2 (1).pdf</p>
-            </div>
-            <div class="card">
-                <h3>Laboratory 3</h3>
-                <p>Description of your third midterm activity goes here.</p>
-            </div>
+    <div class="cards">
+
+        <div class="card">
+            <h3>Laboratory 1</h3>
+            <p>Policarpio - Term 2 - Midterms Lab Task 1</p>
+            <br>
+            <a href="Policarpio- Term 2 - Midterms Lab Task 1.pdf" target="_blank" class="pdf-link">
+                View PDF
+            </a>
         </div>
-    </section>
+
+        <div class="card">
+            <h3>Laboratory 2</h3>
+            <p>LabTask_2 (1)</p>
+            <br>
+            <a href="LabTask_2 (1).pdf" target="_blank" class="pdf-link">
+                View PDF
+            </a>
+        </div>
+
+        <div class="card">
+            <h3>Laboratory 3</h3>
+            <p>My third midterm laboratory activity.</p>
+            <br>
+            <a href="LabTask_3.pdf" target="_blank" class="pdf-link">
+                View PDF
+            </a>
+        </div>
+
+    </div>
+</section>
 
     <!-- FINAL -->
     <section id="final">
