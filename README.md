@@ -1,60 +1,55 @@
-# MIDTERMS-LAB-TASK
+h1 align="center">🖤 Hello, I'm Rayven Calma</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kent Luis Policarpio | Portfolio</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-<!-- Navigation -->
-<nav>
-<a href="#about">About</a>
-<a href="#projects">Projects</a>
-<a href="#contact">Contact</a>
-</nav>
-<!-- Intro -->
-<header>
-<h1>Hi, I'm <span class="blue">Kent Luis Policarpio</span> 👋</h1>
-<p>1st Year Student • National University Clark</p>
-</header>
-<!-- About Section -->
-<section id="about">
-<h2>About Me</h2>
-<p>
-     I'm a first-year student at National University Clark building a strong foundation in
-     computing and programming fundamentals. I enjoy exploring how code solves real-world problems,
-     from writing logic programs in Java to building clean web pages from scratch.
+<h3 align="center"> Welcome to My GitHub Profile </h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=RAYVEN%20CALMA&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-<p>
-     Outside of coding, I have an eye for photography, visual layouts, and creative design.
-     This site serves as a living portfolio of my class activities, hands-on exercises, and personal projects.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Dream+Big+%7C+Stay+Creative;Learning+Something+New+Every+Day" />
 </p>
-<div class="badges">
-<span>Java</span>
-<span>HTML & CSS</span>
-<span>Git & GitHub</span>
-<span>CLI / Command Prompt</span>
-</div>
-</section>
-<!-- Projects Section -->
-<section id="projects">
-<h2>Projects</h2>
-<div class="card">
-<h3>Personal Portfolio</h3>
-<p>My first website built with HTML and CSS and hosted on GitHub Pages.</p>
-</div>
-<div class="card">
-<h3>Java Console Activities</h3>
-<p>Programs practicing arrays, loops, and conditional logic from my first-year computing labs.</p>
-</div>
-</section>
-<!-- Contact Section -->
-<section id="Output">
-<h2>Output</h2>
+
+---
+
+## 👤 About Me
+
+- 🖤 Hello! I'm *Rayven Calma*
+- 🌱 I love learning new things.
+- 💻 Interested in programming and technology.
+- 🚀 Always looking forward to improving myself.
+- ✨ Welcome to my digital world!
+
   |:--|:--|
-
-| *Lab Task 1: Using 2 dimensional arrays* | [Lab-Task1]("Policarpio-%20Term%202%20-%20Midterms%20Lab%20Task%201%20(1).pdf") |
+| *Lab Task 1: Using 2 dimensional arrays* | [Lab-Task1](LabTask1rayvencalma.pdf) |
 | *Lab Task 2: Using 3 dimensional arrays* | [Lab-Task2](MIDTERMS/activity_2.pdf) |
+
+---
+
+## 🌐 Contact
+
+<p>
+  📧 Email:
+  <a href="mailto:calmarp@students.nu-clark.edu.ph">
+    calmarp@students.nu-clark.edu.ph
+  </a>
+</p>
+
+<p>
+  🖥️ GitHub:
+  <a href="https://github.com/yourusername">
+    github.com/yourusername
+  </a>
+</p>
+
+---
+
+
+<p align="center">
+  <i>"Keep learning, keep growing, and never stop dreaming."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+</p>
+capsule-render.vercel.app
