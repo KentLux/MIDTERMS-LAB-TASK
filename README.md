@@ -213,7 +213,7 @@ Viva La Vida
             </div>
             <div class="card">
                 <h3>Laboratory 2</h3>
-                <p>Description of your second midterm activity goes here.</p>
+                <p>LabTask_2 (1).pdf</p>
             </div>
             <div class="card">
                 <h3>Laboratory 3</h3>
